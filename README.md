@@ -11,7 +11,7 @@
   <img src="https://raw.githubusercontent.com/P-pisiko/Database_implementation/refs/heads/main/assets/Wireframe2.jpg" width="200" />
   <img src="https://raw.githubusercontent.com/P-pisiko/Database_implementation/refs/heads/main/assets/Wireframe3.jpg" width="200" />
 </p>
-<p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/P-pisiko/Database_implementation/refs/heads/main/assets/Wireframe4.jpg" width="200" />
   <img src="https://raw.githubusercontent.com/P-pisiko/Database_implementation/refs/heads/main/assets/Wireframe5.jpg" width="200" />
   <img src="https://raw.githubusercontent.com/P-pisiko/Database_implementation/refs/heads/main/assets/Wireframe6.jpg" width="200" />
@@ -23,9 +23,6 @@
 # Relational Diagram
 ![image](https://raw.githubusercontent.com/P-pisiko/Database_implementation/refs/heads/main/assets/Relational_Diagram.jpg)
 
-# Result:
-- The project was given a lot of compliments from students and the professor
-- We were given the maximum grades for this project which took up 25% of the final grade
 
 # Skills:
 - Database design and implementation: SQL, NoSQL, EER model, Relational Diagram
