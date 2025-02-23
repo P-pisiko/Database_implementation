@@ -11,6 +11,11 @@
   <img src="https://raw.githubusercontent.com/P-pisiko/Database_implementation/refs/heads/main/assets/Wireframe2.jpg" width="200" />
   <img src="https://raw.githubusercontent.com/P-pisiko/Database_implementation/refs/heads/main/assets/Wireframe3.jpg" width="200" />
 </p>
+<p>
+  <img src="https://raw.githubusercontent.com/P-pisiko/Database_implementation/refs/heads/main/assets/Wireframe4.jpg" width="200" />
+  <img src="https://raw.githubusercontent.com/P-pisiko/Database_implementation/refs/heads/main/assets/Wireframe5.jpg" width="200" />
+  <img src="https://raw.githubusercontent.com/P-pisiko/Database_implementation/refs/heads/main/assets/Wireframe6.jpg" width="200" />
+</p>
 
 # EER Model
 ![image](https://raw.githubusercontent.com/P-pisiko/Database_implementation/refs/heads/main/assets/ER-model.jpg)
